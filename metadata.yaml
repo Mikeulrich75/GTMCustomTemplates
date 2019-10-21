@@ -13,5 +13,5 @@
 # limitations under the License.
 homepage: "https://www.wpromote.com"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: f61249d77b7e6d18f5d93def5a4fba133c58092c
     changeNotes: Initial Version
