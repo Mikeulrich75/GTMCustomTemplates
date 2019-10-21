@@ -11,7 +11,7 @@ ___INFO___
 {
   "displayName": "dataLayer Builder + Standard Ecommerce",
   "categories": ["CONVERSIONS", "ANALYTICS", "UTILITY"],
-  "description": "This is a simple dataLayer builder that allows you to add any custom parameters you want with the dropdown functionality to build Google's Standard Ecommerce dataLayer.",
+  "description": "This custom template gives you the ability to build Google's Standard Ecommerce dataLayer, with easy to use dropdown functionality, and the ability to add as many custom parameters as you want.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
