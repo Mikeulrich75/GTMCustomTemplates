@@ -4,7 +4,7 @@ This custom template gives you the ability to build Google's Standard Ecommerce 
 
 # Author
 
-Michael Ulrich (https://www.wpromote.com/).
+[Michael Ulrich] (https://github.com/Mikeulrich75)
 
 # Release Notes
 	
